@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/86a7ec081a2a208b2cbf1bd238012674_esd-123js06-th.jpg
+file: /media/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/86a7ec081a2a208b2cbf1bd238012674_esd-123js06-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Material Flow Analysis is a technique for evaluating the "environmental
@@ -12,6 +12,8 @@ image_metadata:
     with permission.)'
   credit: ''
   image-alt: Chart showing proportions of coal mining, agriculture, etc.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: esd-123js06-th.jpg
 uid: 86a7ec08-1a2a-208b-2cbf-1bd238012674

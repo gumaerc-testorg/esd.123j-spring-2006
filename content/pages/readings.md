@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ad840eab-ff13-d71c-408f-9c8f5c39d738
 ---
@@ -13,7 +16,7 @@ Colby, Michael E. "[Environmental Management in Development: The Evolution of Pa
 
 Thompson, Michael. "[Understanding Environmental Values: A Cultural Theory Approach](http://www.carnegiecouncil.org/publications/articles_papers_reports/710.html)." New York, NY: Carnegie Council for Ethics in International Affairs, 2000.
 
-Janssen, Marco, and Jan Rotmans. "Allocation of Fossil CO2 Emission Rights: Quantifying Cultural Perspectives." _Ecological Economics_ 13 (1995): 65-79.
+Janssen, Marco, and Jan Rotmans. "Allocation of Fossil CO{{< sub "2" >}} Emission Rights: Quantifying Cultural Perspectives." _Ecological Economics_ 13 (1995): 65-79.
 
 UN World Commission on Environment and Development. "Towards Sustainable Development." Chapter 2 in _Our Common Future_. New York, NY: Oxford University Press, 1987. ISBN: 9780192820808. \[Also known as the "Brundtland Report"\].
 
