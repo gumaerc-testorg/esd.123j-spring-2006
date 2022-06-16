@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the table for the class schedule.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec1))
+({{% resource_link b1d35779-0bdb-0cfb-3223-661472a8bc9d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ What is Industrial Ecology?
 Environmental Paradigm
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec3))
+({{% resource_link a0f4861d-0cd2-9602-5d76-100c57b28ae1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +76,7 @@ Environmental Paradigm
 Sustainability: Concepts and Metrics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec4))
+({{% resource_link 9168a54f-dcc1-5d13-5e33-535b067bc72c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +130,7 @@ Resource Econ Group Presentations
 Life-cycle Assessment - Overview
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec8))
+({{% resource_link 991258cf-5f30-1b56-4029-794e8f9f29cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +154,7 @@ Using the Software
 LCA - Scope
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec10))
+({{% resource_link 784b4d76-ac20-d1bc-0223-aa6bb889ce99 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +166,7 @@ LCA - Scope
 LCA - Inventory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec11))
+({{% resource_link 11ecb61a-034f-f689-51ff-bccbf7368cde "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +178,7 @@ LCA - Inventory
 LCA - Inventory Allocation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec12))
+({{% resource_link 82f41a0b-a18e-6433-f1b7-dcd70c8518a5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +202,7 @@ LCA - Recycling
 Materials Flow Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14))
+({{% resource_link 687f1c8b-bbc1-d92f-41b1-213694ff26b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +232,7 @@ Overview of Case 2
 LCA - Impact Assessment - EPS
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec16))
+({{% resource_link b9043ca3-4336-5ee2-3dc2-44c284188c7d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +244,7 @@ LCA - Impact Assessment - EPS
 LCA - Impact Assessment - EcoPoints
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec17))
+({{% resource_link 40a6b5be-9e12-c243-b8a5-596e906617be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -315,7 +316,7 @@ Material Flow Case Study
 Environmental Policy Making (Part 1)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec22))
+({{% resource_link 634e0941-3da3-77ac-f20a-21fc1dbfe36d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

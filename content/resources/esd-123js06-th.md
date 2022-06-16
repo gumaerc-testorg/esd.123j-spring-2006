@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/86a7ec081a2a208b2cbf1bd238012674_esd-123js06-th.jpg
+file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/86a7ec081a2a208b2cbf1bd238012674_esd-123js06-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Material Flow Analysis is a technique for evaluating the "environmental
@@ -18,3 +18,5 @@ resourcetype: Image
 title: esd-123js06-th.jpg
 uid: 86a7ec08-1a2a-208b-2cbf-1bd238012674
 ---
+New image Upload
+
