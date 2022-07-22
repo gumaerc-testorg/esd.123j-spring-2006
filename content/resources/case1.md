@@ -5,6 +5,7 @@ file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: case1.pdf
 uid: 7c3014ad-305a-04ea-9d90-d84a558d9da2
 ---
 This file contains information about LCA of a Product.
-

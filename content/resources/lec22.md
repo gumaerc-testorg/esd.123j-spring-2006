@@ -6,6 +6,7 @@ file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec22.pdf
 uid: 634e0941-3da3-77ac-f20a-21fc1dbfe36d
 ---
 This file contains information about Environmental Policymaking : Policy Definitions and Frameworks.
-

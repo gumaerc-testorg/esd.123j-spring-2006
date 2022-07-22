@@ -6,6 +6,7 @@ file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: case2.pdf
 uid: 8be9c67c-096c-07ce-ed4d-e033566339ed
 ---
 This file contains information about Identifying Drivers & Mechanisms of Change.
-

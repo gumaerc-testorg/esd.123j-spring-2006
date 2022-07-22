@@ -13,10 +13,10 @@ image_metadata:
   credit: ''
   image-alt: Chart showing proportions of coal mining, agriculture, etc.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-123js06-th.jpg
 uid: 86a7ec08-1a2a-208b-2cbf-1bd238012674
 ---
 New image Upload
-

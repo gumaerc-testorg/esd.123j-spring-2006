@@ -5,6 +5,7 @@ file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec10.pdf
 uid: 784b4d76-ac20-d1bc-0223-aa6bb889ce99
 ---
 This file includes information on the topic Defining Goal & Scope.
-
