@@ -53,8 +53,10 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Presentation Assignments"
+    "Presentation Assignments",
+    "Written Assignments"
   ],
-  "site_uid": "109558a1-0c64-4fb3-9733-f3bf9a75e98f",
+  "site_uid": "cdfd384d-304d-4320-8b24-e7fae19f2735",
+  "short_id": "esd.123j-spring-2006",
   "title": "Course Metadata"
 }
