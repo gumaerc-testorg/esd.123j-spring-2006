@@ -3,6 +3,7 @@ content_type: resource
 description: This file containsinformation about Mapping the Environmental Consequence
   of Design Decisions.
 file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/991258cf5f301b564029794e8f9f29cc_lec8.pdf
+file_size: 948849
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
