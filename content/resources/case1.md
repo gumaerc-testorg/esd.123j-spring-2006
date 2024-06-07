@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information about LCA of a Product.
 file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/7c3014ad305a04ea9d90d84a558d9da2_case1.pdf
+file_size: 33913
 file_type: application/pdf
 learning_resource_types:
 - Assignments
