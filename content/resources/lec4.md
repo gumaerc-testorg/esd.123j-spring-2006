@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information about Sustainable Development.
 file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/9168a54fdcc15d135e33535b067bc72c_lec4.pdf
+file_size: 147645
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/40a6b5be9e12c243b8a5596e906617be_lec17.pdf
+file_size: 297219
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

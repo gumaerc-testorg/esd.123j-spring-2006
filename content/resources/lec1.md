@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information about Systems Perspectives on Industrial
   Ecology.
 file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/b1d357790bdb0cfb3223661472a8bc9d_lec1.pdf
+file_size: 289338
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
