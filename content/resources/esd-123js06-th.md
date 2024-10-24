@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/86a7ec081a2a208b2cbf1bd238012674_esd-123js06-th.jpg
+file: /ol-ocw-studio-app/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/86a7ec081a2a208b2cbf1bd238012674_esd-123js06-th.jpg
 file_size: 7915
 file_type: image/jpeg
 image_metadata:
