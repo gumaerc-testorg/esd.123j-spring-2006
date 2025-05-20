@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the initial assignments for the course.
-file: /ol-ocw-studio-app/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/17421fc965967d6ea6de79a1a28b33cd_assignment1_2.pdf
+file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/17421fc965967d6ea6de79a1a28b33cd_assignment1_2.pdf
 file_size: 33087
 file_type: application/pdf
 learning_resource_types:
