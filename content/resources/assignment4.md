@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about Considering LCA Goal & Scope.
-file: /courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/6919e95f79392d41f9a6c53aae11e956_assignment4.pdf
+file: /ol-ocw-studio-app/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/6919e95f79392d41f9a6c53aae11e956_assignment4.pdf
 file_size: 41279
 file_type: application/pdf
 learning_resource_types:
