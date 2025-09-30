@@ -13,21 +13,21 @@ uid: ad840eab-ff13-d71c-408f-9c8f5c39d738
 
 Frosch, R. A. "Industrial Ecology: A Philosophical Introduction." *Proceedings of National Academy of Science U.S.A.* 89 (February 1992): 800-803.
 
-Colby, Michael E. "[Environmental Management in Development: The Evolution of Paradigms](https://www.sciencedirect.com/science/article/pii/092180099190032A)." *World Bank Discussion Paper* *No* 80. Washington, DC: The World Bank, 1990. ISBN: 9780821315590.
+Colby, Michael E. "{{% resource_link "38df9215-54b3-40aa-b5e6-3c98c8fd0350" "Environmental Management in Development: The Evolution of Paradigms" %}}." *World Bank Discussion Paper* *No* 80. Washington, DC: The World Bank, 1990. ISBN: 9780821315590.
 
-Thompson, Michael. "[Understanding Environmental Values: A Cultural Theory Approach](http://www.carnegiecouncil.org/publications/articles_papers_reports/710.html)." New York, NY: Carnegie Council for Ethics in International Affairs, 2000.
+Thompson, Michael. "{{% resource_link "e8d99443-d5db-4342-8f98-2072dc85df14" "Understanding Environmental Values: A Cultural Theory Approach" %}}." New York, NY: Carnegie Council for Ethics in International Affairs, 2000.
 
 Janssen, Marco, and Jan Rotmans. "Allocation of Fossil CO{{< sub "2" >}} Emission Rights: Quantifying Cultural Perspectives." *Ecological Economics* 13 (1995): 65-79.
 
 UN World Commission on Environment and Development. "Towards Sustainable Development." Chapter 2 in *Our Common Future*. New York, NY: Oxford University Press, 1987. ISBN: 9780192820808. \[Also known as the "Brundtland Report"\].
 
-Taylor, Jerry. "[Sustainable Development: A Dubious Solution in Search of a Problem](https://www.semanticscholar.org/paper/Sustainable-Development-A-Dubious-Solution-in-of-a-Taylor/3c75e19c5f64dfb435f3139c7c156d3a952f74c3)." *Policy Analysis* 449 (August 26, 2002). Washington, DC: Cato Institute.
+Taylor, Jerry. "{{% resource_link "d06cf686-89cf-49b3-a417-a15c3d78ad81" "Sustainable Development: A Dubious Solution in Search of a Problem" %}}." *Policy Analysis* 449 (August 26, 2002). Washington, DC: Cato Institute.
 
 ## Resource Scarcity
 
 Pearce, D. W., G. D. Atkinson, and W. R. Dubourg. "The Economics of Sustainable Development." *Annu Rev Energy Environ* 19 (1994): 457-74.
 
-Pezzey, John C. V., and Michael A. Toman. "The Economics of Sustainability: A Review of Journal Articles." Resources for the Future Discussion Paper 02-03 (January 2002). ([PDF](https://media.rff.org/archive/files/sharepoint/WorkImages/Download/RFF-DP-02-03.pdf))
+Pezzey, John C. V., and Michael A. Toman. "The Economics of Sustainability: A Review of Journal Articles." Resources for the Future Discussion Paper 02-03 (January 2002). ({{% resource_link "86cc3f18-2965-421f-a434-4a938853f040" "PDF" %}})
 
 Tilton, John. "Exhaustible Resources and Sustainable Development: Two Paradigms." *Resources Policy* 22, nos. 1/2 (1996): 91-97.
 
@@ -43,11 +43,11 @@ Devarajan, S., and A. Fischer. "Hotelling's 'Economics of Exhaustible Resources'
 
 Bauman, H., and A. Tillman. *Hitch Hiker's Guide To LCA: An Orientation in Life Cycle Assessment Methodology and Application*. Lund, Sweden: Studentlitteratur AB, 2004, chapters 1, 3, 4, and 5. ISBN: 9789144023649.
 
-PRé Consultants bv. *SimaPro 6: Introduction to LCA with SimaPro*. ([PDF](https://www.pre-sustainability.com/legacy/download/SimaPro8IntroductionToLCA.pdf))
+PRé Consultants bv. *SimaPro 6: Introduction to LCA with SimaPro*. ({{% resource_link "433ca034-f430-42e8-b819-f817f53bf067" "PDF" %}})
 
 United Nations Environment Program. *Life Cycle Assessment: What it is and How to do it* . 1996.   
-Part 1: What it is. ( [PDF - 7.0 MB](https://web.archive.org/web/20050301211318/http://www.unepie.org/pc/sustain/reports/lcini/Part%20I%20LCA%20What%20it%20is.pdf))   
-Part 2: How to do it. ([PDF - 8.3 MB](https://web.archive.org/web/20120331183400/http://www.unepie.org/scp))
+Part 1: What it is. ( {{% resource_link "a0c862d6-3b70-4eab-8b30-9815c09331f6" "PDF - 7.0 MB" %}})   
+Part 2: How to do it. ({{% resource_link "8742e0cf-e122-442a-8f41-edc279133ae4" "PDF - 8.3 MB" %}})
 
 Weidema, Bo. "Avoiding Co-Product Allocation in Life-Cycle Assessment." *Journal of Industrial Ecology* 4, no. 3 (2001): 11-33.
 
@@ -61,8 +61,8 @@ Finnveden, Göran. "Methodological Aspects of Life Cycle Assessment of Integrate
 
 ## Material Flow Analysis
 
-Moll, Stephan, Stefan Bringezu, and Helmu Schuetz. "[Resource Use in European Countries](http://wupperinst.org/en/publications/details/wi/a/s/ad/316/)." *Environment and Energy*. Wuppertal Report No. 1. Wuppertal Institute for Climate (December 2005).
+Moll, Stephan, Stefan Bringezu, and Helmu Schuetz. "{{% resource_link "35efd6c6-d926-451d-9e1f-8ce947c260f8" "Resource Use in European Countries" %}}." *Environment and Energy*. Wuppertal Report No. 1. Wuppertal Institute for Climate (December 2005).
 
 Graedel, T. E., et al. "Multilevel Cycle of Anthropogenic Copper." *Environmental Science and Technology* 38 (2004): 1242-1252.
 
-Matthews, Emily, et al. [*The Weight of Nations*](http://www.wri.org/publication/weight-nations). World Resources Institute, 2000.
+Matthews, Emily, et al. {{% resource_link "a184ef3d-4590-4603-99e1-b9ed82751a9f" "*The Weight of Nations*" %}}. World Resources Institute, 2000.
